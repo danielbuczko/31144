@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(130, 42, 165, 0.5);
+}
+
+h1 {
+  background-color: rgb(15, 29, 231);
+}
+h2 {
+  background-color: springgreen;
+}
+#paragraf1 {
+  background-color: saddlebrown;
+}
+#paragraf2 {
+  background-color: slategray;
+}
+
+ol {
+  background-color: rgb(6, 134, 134);
+}
+
+#li1 {
+  background-color: rgb(216, 55, 27);
+}
+#li2 {
+  background-color: rgba(23, 12, 61, 0.123);
+}
+#li3 {
+  background-color: rgb(189, 15, 117);
+}
+#li4 {
+  background-color: rgba(13, 146, 95, 0.671);
+}
+#li5 {
+  background-color: rgb(61, 52, 51);
+}
